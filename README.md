@@ -1,13 +1,6 @@
 # Trabajo de Fin de Máster
 
-# Síntesis de voz con aprendizaje profundo: análisis de modelos de text-to-speech y de voice conversion
-
-## Autor: Jorge Alpuente Requena
-
-## Tutores: 
-## Emilio Soria Olivas
-## Ángel Guevera Ros
-
+## Síntesis de voz con aprendizaje profundo: análisis de modelos de text-to-speech y de voice conversion
 
 En este repositorio se encuentran el código y los audios del trabajo. 
 
